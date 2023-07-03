@@ -1,0 +1,1 @@
+## This project started of as a way to avoid tutorial hell and start a new journey with web development
